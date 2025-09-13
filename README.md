@@ -10,6 +10,9 @@ OpenSongInfo aims to maintain an open, community-driven collection of song metad
 The CSV format makes it easy to view, analyze, and manage song information.  
 Anyone can contribute and help expand this database.
 
+This project is perfect for music lovers, developers, and researchers who want to explore, analyze, or build projects using song data.  
+From timeless classics to modern hits, every track tells a story — and with your help, we can document them all!
+
 ---
 
 ## Rules / Guidelines
