@@ -1,4 +1,7 @@
-Title;Artist;Album;Year;Genre;Length Seconds;Last Modified
+Title;Artist;Album;Year;Genre;Length Seconds;ISRC Code;Language;Country/Origin;Composer/Writer;Release Date;Last Modified
+Blinding Lights;The Weeknd;After Hours;2019;Synthpop;200;USUG11904280;English;Canada;Abel Tesfaye, Max Martin;2019-11-29;2025-10-21
+Shape of You;Ed Sheeran;÷ (Divide);2017;Pop;233;GBAHS1700026;English;United Kingdom;Ed Sheeran, Steve Mac, Johnny McDaid;2017-01-06;2025-10-21
+Starboy;The Weeknd;Starboy;2016;R&B;230;USUG11600925;English;Canada;Abel Tesfaye, Daft Punk, Jason “PooBear” Boyle;2016-09-21;2025-10-21
 Awaara Hoon;Mukesh;Awara;1951;Bollywood Classic;182;13/09/2025 7:25:01 pm;
 Babuji Dheere Chalna;Geeta Dutt;Aar Paar;1954;Bollywood Classic;212;13/09/2025 7:25:04 pm;
 Kisi Ki Muskurahaton Pe Ho Nisar;Mukesh;Anari;1959;Bollywood Classic;249;13/09/2025 7:25:02 pm;
@@ -188,6 +191,7 @@ Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video);;;;;252;06/08/20
 ZAYDE WOLF - HUSTLER (Official Music Video) - seen on DUDE PERFECT - JEEP Freedom Days;;;;;206;13/09/2025 5:44:07 pm;
 ZERO_ Heer Badnaam Lyrical Video  Shah Rukh Khan, Katrina Kaif, Anushka Sharma  Tanishk Bagchi;;;;;158;13/09/2025 5:44:07 pm;
 Way Down We Go;Kaleo`;;;Indie Rock;214;13/09/2025 7:48:58 pm;
+
 
 
 
