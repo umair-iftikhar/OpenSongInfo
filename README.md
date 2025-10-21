@@ -75,3 +75,7 @@ Once received, the song will be added to the CSV database by the repository main
 ---
 
 😏 **P.S.** You don’t have to, but if you feel like it, you can also share your actual song with us — just for fun, we might sneak a listen! No pressure, totally optional. 🎵
+
+---
+
+All listed fields represent factual song metadata and do not include any copyrighted material.
